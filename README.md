@@ -14,7 +14,7 @@ This repository holds my programming projects done during the period of stanCode
 * [My Photoshop]
   
   ![image](https://github.com/alicejuancc/pythonProject/blob/main/pic/photoshop_old.jpg)
-
+  ![image](https://github.com/alicejuancc/pythonProject/blob/main/pic/photoshop_new.png)
   * image processing
 
 * [Name Searching System]
