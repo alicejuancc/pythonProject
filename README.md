@@ -6,6 +6,7 @@ This repository holds my programming projects done during the period of stanCode
 * [My Drawing]
   * GObject
 * [Breakout Game]
+  ![image](https://github.com/UoB-COMSM0110/2024-group-11/blob/main/GIF/twoPlayers.gif)
   * animation & game designing
 * [My Photoshop]
   * image processing
