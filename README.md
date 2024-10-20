@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-## Projects Source Code
+## Projects demo
 * [My Drawing]
   ![image](https://github.com/alicejuancc/pythonProject/blob/main/pic/drawing.png)
   * GObject
